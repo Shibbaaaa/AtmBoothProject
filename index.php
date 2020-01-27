@@ -74,10 +74,7 @@
 		<!-- Main div ends -->
 		<footer class="container-fluid" style="position: fixed; left: 0; bottom: 0; width: 100%; background-color: rgba(255,255,255,1); color: black; text-align: center; padding-top: 10px; padding-bottom: 10px">
              <p align="center">Prepared by:</p>
-             <p align="center">Chayan Saha (17101415)</p>
-             <p align="center">Shihab Sharar (17201095)</p> 
-             <p align="center">Md. Tahmid Chowdhury Abir (17201029)</p>
-             <p align="center">Md. Sazzad Hossain Shehan (17201150)</p>
+             <p align="center">Shihab Sharar (17201095)</p>
         </footer>
 		<!-- footer ends-->
 	</body>
